@@ -17,6 +17,3 @@ function fibsRec(start, num) {
     )
     : [];
 }
-
-console.log(`Using iteration: ${fibs(8)}`);
-console.log(`Using recursion: ${fibsRec(0, 8)}`);
