@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-expressions */
+/* eslint-disable no-nested-ternary */
 function fibs(num) {
   const arr = [];
   for (let i = 0; i < num; i++) {
